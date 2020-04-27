@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/PicturePuzzle/static/css/main.a85f6368.chunk.css",
+    "main.js": "/PicturePuzzle/static/js/main.55537b14.chunk.js",
+    "main.js.map": "/PicturePuzzle/static/js/main.55537b14.chunk.js.map",
+    "runtime-main.js": "/PicturePuzzle/static/js/runtime-main.c0465d73.js",
+    "runtime-main.js.map": "/PicturePuzzle/static/js/runtime-main.c0465d73.js.map",
+    "static/js/2.b122c175.chunk.js": "/PicturePuzzle/static/js/2.b122c175.chunk.js",
+    "static/js/2.b122c175.chunk.js.map": "/PicturePuzzle/static/js/2.b122c175.chunk.js.map",
+    "index.html": "/PicturePuzzle/index.html",
+    "precache-manifest.5f574f80efdc64e4c9fded60c46100e6.js": "/PicturePuzzle/precache-manifest.5f574f80efdc64e4c9fded60c46100e6.js",
+    "service-worker.js": "/PicturePuzzle/service-worker.js",
+    "static/css/main.a85f6368.chunk.css.map": "/PicturePuzzle/static/css/main.a85f6368.chunk.css.map",
+    "static/js/2.b122c175.chunk.js.LICENSE.txt": "/PicturePuzzle/static/js/2.b122c175.chunk.js.LICENSE.txt",
+    "static/media/earth.jpg": "/PicturePuzzle/static/media/earth.d95e06db.jpg",
+    "static/media/jupiter.jpg": "/PicturePuzzle/static/media/jupiter.17e986cc.jpg",
+    "static/media/mars.jpg": "/PicturePuzzle/static/media/mars.36d76d82.jpg",
+    "static/media/mercury.jpg": "/PicturePuzzle/static/media/mercury.010ddae6.jpg",
+    "static/media/neptune.jpg": "/PicturePuzzle/static/media/neptune.885d6c64.jpg",
+    "static/media/saturn.jpg": "/PicturePuzzle/static/media/saturn.fe48b249.jpg",
+    "static/media/uranus.jpg": "/PicturePuzzle/static/media/uranus.678acd6f.jpg",
+    "static/media/venus.jpg": "/PicturePuzzle/static/media/venus.9cf4b13f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0465d73.js",
+    "static/js/2.b122c175.chunk.js",
+    "static/css/main.a85f6368.chunk.css",
+    "static/js/main.55537b14.chunk.js"
+  ]
+}
